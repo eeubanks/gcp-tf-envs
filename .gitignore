@@ -1,3 +1,5 @@
+# Ignore local credentials
+*-key.json
 # Local .terraform directories
 **/.terraform/*
 
