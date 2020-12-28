@@ -1,5 +1,9 @@
 # Ignore local credentials
 *-key.json
+
+# Ignore private text file
+ip_address.txt
+
 # Local .terraform directories
 **/.terraform/*
 
