@@ -7,6 +7,9 @@ ip_address.txt
 # Local .terraform directories
 **/.terraform/*
 
+# terraform lock hcl
+.terraform.lock.hcl
+
 # .tfstate files
 *.tfstate
 *.tfstate.*
